@@ -1,11 +1,7 @@
-# C-Tanggap (kerangka MVP Android) - versi 2: 12 layar Figma
+# C-Tanggap 
 
 Aplikasi deteksi indikasi benturan untuk pengendara (lingkup: kecelakaan lalu lintas). Mengirim SMS berisi lokasi ke kontak
 darurat, lalu eskalasi bertahap ke fasilitas kesehatan, polisi, dan 112 (opt-in, default mode simulasi).
-
-> Status: kerangka kode, BELUM dikompilasi di sini (tidak ada Android SDK). Hanya sintaks Kotlin yang diperiksa dengan
-> kotlinc (tidak ada error sintaks). Buka di Android Studio, sinkronkan Gradle, dan perbaiki error kecil yang muncul
-> (versi dependensi di `build.gradle.kts` hanyalah contoh).
 
 ## Pemetaan 12 layar Figma ke kode
 | No | Layar Figma | Composable / berkas |
