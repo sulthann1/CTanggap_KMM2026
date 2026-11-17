@@ -1,0 +1,4 @@
+[
+  { "name": "CONTOH - Ganti dengan RS di wilayah uji", "kind": "FASKES", "lat": -7.7956, "lng": 110.3695, "phone": "+62000000000" },
+  { "name": "CONTOH - Ganti dengan Polsek di wilayah uji", "kind": "POLISI", "lat": -7.7900, "lng": 110.3700, "phone": "+62000000001" }
+]
